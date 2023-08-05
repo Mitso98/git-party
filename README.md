@@ -1,6 +1,6 @@
 # git-party
 
-## Abdelaziz Ibrahim Abdelaziz
+## Abdelaziz Ibrahim Abdelaziz 
 ## omar mustafa ahmed
-## mohamed essam elbastawisy
+## Mohamed Essam Elbastawisy
 ## MaNaR EsSaM 
